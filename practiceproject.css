@@ -1,0 +1,310 @@
+						/* ALPHABETICAL ORDER FOR TAGS CLASSES & ID */
+
+body {
+	background: #778899;
+}
+.bug {
+	background-color: #ab2;
+	color: #000;
+}
+button {
+	background-color: #cbcbf2;
+	border-radius: 25px;
+}
+#buttonClicks {
+	display: none;
+}
+.column {
+	float:left;
+    width:700px;
+	padding: 5px;
+}
+.columntwo {
+	float:right;
+    width:700px;
+	padding: 5px;
+}
+.dark {
+	background-color: #754;
+	color: #fff;
+}
+.dragon {
+	background-color: #76e;
+	color: #fff;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  display: none;
+  float: left;
+  min-width: 10rem;
+  padding: 0.5rem 0;
+  margin: 0.125rem 0 0;
+  font-size: 1rem;
+  text-align: center;
+  border-radius: 0.25rem;
+  z-index: 1;
+  box-shadow: 0 0.1875rem 0.375rem rgba(0, 0, 0, 0.16), 0 0.1875rem 0.375rem rgba(0, 0, 0, 0.23);
+}
+.dropdown-item {
+  display: block;
+  padding: 0.25rem 1rem;
+  white-space: nowrap;
+}
+.dropdown:hover .dropdown-menu {
+	display: block;
+	-webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.d-block {
+  display: block;
+}
+.electric {
+	background-color: #fc3;
+	color: #000;
+}
+.fairy {
+	background-color: #e9e;
+	color: #000;
+}
+.fighting {
+	background-color: #b54;
+	color: #fff;
+}
+.fire {
+	background-color: #f42;
+	color: #F5F5F5;
+}
+.firstul {
+	text-align: center;
+}
+#firmoveset {
+	text-align: left;
+	padding-right: 3px;
+}
+.flying {
+	background-color: #89f;
+	color: #000;
+}
+.grass {
+	background-color: #7c5;
+	color: #000;
+}
+.ghost {
+	background-color: #66b;
+	color: #fff;
+}
+.ground {
+	background-color: #db5;
+	color: #000;
+}
+.headNameOne {
+	padding: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 20px;
+}
+.headNameTwo {
+	padding: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 20px;
+}
+hr.style-three {
+	border: 0;
+	height: 1px;
+	background: #333;
+	background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+	background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+	background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
+	background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+}
+.ice {
+	background-color: #6cf;
+	color: #000;
+}
+li {
+	list-style: none;
+}
+.move {
+	text-decoration: underline;
+}
+#moveButtons {
+	font-size: 12px;
+	background-color: #000;
+	color: #fff;
+	display: none;
+}
+.nameAlign {
+	text-align: left;
+	height: 20px;
+	background-color: #cbcbf2;
+	color: #2A397A;
+	font-weight: bold;
+}
+.normal {
+	background-color: #aa9;
+	color:#000;
+}
+#oneMoves {
+	margin: 25px;
+
+}
+#ourmoveset {
+	text-align: right;
+	padding-left: 3px;
+}
+.poison {
+	background-color: #a59;
+	color: #fff;
+}
+.psychic {
+	background-color: #f59;
+	color: #000;
+}
+#pokeOneMoves {
+
+}
+.rock {
+	background-color: #ba6;
+	color: #000;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+#secmoveset {
+	text-align: right;
+	padding-left: 3px;
+}
+span {
+	font-weight: 10px;
+}
+#star {
+	float: right;
+}
+.steel {
+	background-color: #aab;
+	color: #000;
+}
+#teamText {
+	font-size: 30px;
+}
+#threemoveset {
+	text-align: left;
+	padding-right: 3px;
+}
+.water {
+	background-color: #39f;
+	color: #fff;
+}
+
+
+						/* MY START TEAM LIST */
+.delphox {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.meowstic {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.rotom {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.altaria {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.greninja {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.mimikyu {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+
+						/* MY BATTLE TEAM LIST */
+.blaziken {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.tyranitar {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.pidgeot {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.gardevoir {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.flygon {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
+.manectric {
+	border: solid #000;
+	width: 300px;
+	margin: auto;
+	padding-bottom: 5%;
+	background-color: #2A397A;
+	color: #FFF;
+}
